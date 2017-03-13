@@ -1,0 +1,32 @@
+#masterbox{
+    background-color: aqua;
+    width: 960px;
+    margin: 0 auto;
+}
+#Header{
+    background-color: beige;
+    width: 960px;
+    height: 320px;
+}
+#Blocks{
+    background-color: gray;
+    height: 100%;
+    overflow: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+#Block1, #Block2, #Block3{
+    background-color: #fff5e8;
+    width: 35%;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+}
+#Testimonials{
+    background-color: blueviolet;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+}
+
